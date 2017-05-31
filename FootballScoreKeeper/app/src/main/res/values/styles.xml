@@ -1,0 +1,11 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#4DB6AC</item>
+        <item name="colorPrimaryDark">#9E9E9E</item>
+        <item name="colorButtonNormal">#4DB6AC</item>
+    </style>
+
+</resources>
